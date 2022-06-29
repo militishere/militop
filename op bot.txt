@@ -1,0 +1,3 @@
+ip ServerBest.aternos.me
+port 25527
+name alwaysonline
